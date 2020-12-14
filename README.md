@@ -1,6 +1,8 @@
-<img src="https://static.wikia.nocookie.net/minecraft/images/f/fe/GrassNew.png/revision/latest/scale-to-width-down/40" width="40" height="40" align="right"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="bootstrap" width="40" height="40" align="right"/>
-<h2>Eat, sleep, code, repeat</h2>
+<p>
+  <img src="https://static.wikia.nocookie.net/minecraft/images/f/fe/GrassNew.png/revision/latest/scale-to-width-down/40" width="40" height="40" align="right"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="bootstrap" width="40" height="40" align="right"/>
+  <h2>Eat, sleep, code, repeat</h2>
+</p>
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakkaFlocka239&theme=dark&layout=compact&hide_border=true&bg_color=0D1117&title_color=915bf5"/>
 
